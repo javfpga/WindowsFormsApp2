@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2", "WindowsFormsApp2\WindowsFormsApp2.csproj", "{DC7A27AF-817D-4064-A4CE-29DF02251B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridExtension", "GridExtension\GridExtension.csproj", "{800272F2-1962-4EB6-8189-7D7C843E3FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7A27AF-817D-4064-A4CE-29DF02251B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7A27AF-817D-4064-A4CE-29DF02251B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7A27AF-817D-4064-A4CE-29DF02251B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7A27AF-817D-4064-A4CE-29DF02251B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800272F2-1962-4EB6-8189-7D7C843E3FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800272F2-1962-4EB6-8189-7D7C843E3FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800272F2-1962-4EB6-8189-7D7C843E3FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800272F2-1962-4EB6-8189-7D7C843E3FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65DE106D-67E2-4752-8C4B-8E3C4C69D824}
+	EndGlobalSection
+EndGlobal
